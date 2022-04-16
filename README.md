@@ -1,6 +1,6 @@
 # HELLO WORLD! :earth_africa:
 **********
-OOP_Lab3(ÎÎÏ 4 סולוסענ ÁÃÓÈÐ) 
+OOP_Lab3 
 
 It's my *third* lab of OOP.
 
